@@ -1,6 +1,6 @@
 # mandelbrot_set
+![seahorse_color](https://github.com/seanledesma/mandelbrot_set/assets/87875153/3bd934d2-f362-4b9f-9d24-26d25ec78697)
 
-![OGmandelbrot](https://github.com/seanledesma/mandelbrot_set/assets/87875153/e029c9f9-8235-422d-96c7-83d355a33222)
 
 To see different parts of the mandelbrot set, enter the following command line arguments:
 
