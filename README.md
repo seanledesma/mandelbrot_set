@@ -14,3 +14,11 @@ cargo run -- -x -0.746 -y 0.1 -w 0.005 -t 0.005 -m 800 -n 800
 
 Explore the "Elephant Valley":
 cargo run -- -x 0.3 -y 0.0 -w 0.1 -t 0.1 -m 800 -n 800
+
+
+Spiral Patterns:
+cargo run -- -x -0.7453 -y 0.113 -w 0.0003 -t 0.0003 -m 800 -n 800
+
+
+Edge of the Set:
+cargo run -- -x -2.0 -y 0.0 -w 1.0 -t 1.0 -m 800 -n 800
